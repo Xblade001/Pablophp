@@ -4,7 +4,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Alta de Usuarios</title>
         <link rel="stylesheet" media="screen" href="../css/styles.css" >
-        <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     </head>
     <body>
         <form class="contact_form" action="grabar.php" method="post">
