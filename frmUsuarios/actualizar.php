@@ -1,4 +1,4 @@
-<?
+<?php
 include ("../db/conexion.php");
 $Codigo = $_GET["Codigo"];
 $sql = "SELECT * FROM usuario WHERE usu_codigo=$Codigo" or die("Error en la consulta" . mysqli_error($conn));
